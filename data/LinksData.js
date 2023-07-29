@@ -31,7 +31,7 @@ const webLinks = [
     },
     {
         title: 'Github',
-        url: 'https://github.com/realvjy',
+        url: 'https://github.com/beurrenoir',
         type: 'social',
         icon: '/github.svg',
         on: true
